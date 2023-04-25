@@ -24,3 +24,5 @@ $has_kids = true;//bool
 $cash = 50.80;   //float
 
 echo "$name is $age years old and he has $$cash";
+
+$school = 'UMI';
